@@ -2,12 +2,9 @@
     background-color: white;
     padding: 15px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
-.topItem{
-    align-items: center;
-}
 
 
 .middleComponent{
@@ -48,6 +45,5 @@ img {
 
 .topItem span{
     display: block;
-    height: 4.6rem;
-    width: auto;
+    text-align: center;
 }
