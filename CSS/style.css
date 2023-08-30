@@ -1,0 +1,39 @@
+.topComponent{
+    background-color: white;
+    padding: 15px;
+    justify-content: space-between;   
+    display: flex;
+}
+
+
+
+.middleComponent{
+    background-color: whitesmoke;
+    padding: 300px;
+    justify-content: center;
+    display: flex;
+    margin: 0;
+}
+
+.middleItem{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.bottomComponent{
+    background-color: grey;
+    padding: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.bottomItem{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+img{
+    height: 4.6rem;
+    width: auto;
+}
