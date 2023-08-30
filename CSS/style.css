@@ -1,10 +1,13 @@
 .topComponent{
     background-color: white;
     padding: 15px;
-    justify-content: space-between;   
     display: flex;
+    justify-content: space-evenly;
 }
 
+.topItem{
+    align-items: center;
+}
 
 
 .middleComponent{
@@ -33,7 +36,18 @@
 }
 
 
-img{
+img {
+    height: 4.6rem;
+    width: auto;
+}
+
+.topItem{
+    height: 4.6rem;
+    width: auto;
+}
+
+.topItem span{
+    display: block;
     height: 4.6rem;
     width: auto;
 }
